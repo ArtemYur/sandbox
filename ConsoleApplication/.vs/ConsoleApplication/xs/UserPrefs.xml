@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{3C083B84-8579-4730-A098-BE59DD886FBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplication/app.config">
+    <Files>
+      <File FileName="ConsoleApplication/Program.cs" Line="156" Column="92" />
+      <File FileName="ConsoleApplication/app.config" Line="4" Column="33" />
+      <File FileName="ConsoleApplication/IntHashSetPerformanceComparor.config" Line="1" Column="1" />
+      <File FileName="ConsoleApplication/PerformanceProfiler.cs" Line="7" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsoleApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
